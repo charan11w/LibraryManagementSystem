@@ -31,8 +31,7 @@ This system provides a comprehensive platform for libraries to efficiently manag
 Contributions are welcome! Please submit pull requests or issues to improve the system.
 
 
-## License
-[Insert License information, e.g., MIT License]
+
 
 
 ## Authors
